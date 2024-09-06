@@ -1,5 +1,4 @@
-# INT303
-This ia a project for big data analysis
+# INT303 Big Data Analysis 
 
 ## Part1 Web Scraping & Data Analysis
 This part concentrates on using pandas, request, beautifulSoup, seaborn, matplotib to scrap website and analysize the quotes com
